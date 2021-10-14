@@ -1,4 +1,9 @@
-### Hi there 👋
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats-sage-phi.vercel.app/api?username=Horachan22&show_icons=true&count_private=ture" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats-sage-phi.vercel.app/api/top-langs/?username=Horachan22&hide=Jupyter%20Notebook" />
+</a>
 
 <!--
 **Horachan22/Horachan22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
