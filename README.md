@@ -2,7 +2,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Horachan22&show_icons=true&theme=merko" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-sage-phi.vercel.app/api/top-langs/?username=Horachan22&hide=Jupyter%20Notebook&theme=merko" />
+  <img align="left" src="https://github-readme-stats-sage-phi.vercel.app/api/top-langs/?username=Horachan22&hide=Jupyter%20Notebook&theme=merko&layout=compact" />
 </a>
 
 <!--
